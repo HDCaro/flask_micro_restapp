@@ -7,3 +7,9 @@ virtualenv venv
 source venv/bin/activate
 
 2. install requirements
+
+pip install -r requirements.txt
+
+3. Run the app
+
+python small_rest_app.py
